@@ -33,7 +33,7 @@ bot.command("help", (ctx) =>
 );
 
 bot.command("about", (ctx) =>
-  ctx.reply(`This is a bot created by Milind Mishra
+  ctx.reply(`This is a bot
 It is created using the Telegraf library
     `)
 );
