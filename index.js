@@ -39,7 +39,7 @@ It is created using the Telegraf library
 );
 
 bot.command("contact", (ctx) =>
-  ctx.reply("You can contact the bot creator at contact@milind.live")
+  ctx.reply("You can contact the bot creator")
 );
 
 // on emoji replies witha  heart emoji
